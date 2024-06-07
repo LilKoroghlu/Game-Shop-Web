@@ -1,0 +1,12 @@
+D:\Web Projects\GameShopWeb\GameShop.Utility\bin\Debug\net8.0\GameShop.Utility.deps.json
+D:\Web Projects\GameShopWeb\GameShop.Utility\bin\Debug\net8.0\GameShop.Utility.dll
+D:\Web Projects\GameShopWeb\GameShop.Utility\bin\Debug\net8.0\GameShop.Utility.pdb
+D:\Web Projects\GameShopWeb\GameShop.Utility\obj\Debug\net8.0\GameShop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Projects\GameShopWeb\GameShop.Utility\obj\Debug\net8.0\GameShop.Utility.AssemblyInfoInputs.cache
+D:\Web Projects\GameShopWeb\GameShop.Utility\obj\Debug\net8.0\GameShop.Utility.AssemblyInfo.cs
+D:\Web Projects\GameShopWeb\GameShop.Utility\obj\Debug\net8.0\GameShop.Utility.csproj.CoreCompileInputs.cache
+D:\Web Projects\GameShopWeb\GameShop.Utility\obj\Debug\net8.0\GameShop.Utility.sourcelink.json
+D:\Web Projects\GameShopWeb\GameShop.Utility\obj\Debug\net8.0\GameShop.Utility.dll
+D:\Web Projects\GameShopWeb\GameShop.Utility\obj\Debug\net8.0\refint\GameShop.Utility.dll
+D:\Web Projects\GameShopWeb\GameShop.Utility\obj\Debug\net8.0\GameShop.Utility.pdb
+D:\Web Projects\GameShopWeb\GameShop.Utility\obj\Debug\net8.0\ref\GameShop.Utility.dll

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShop", "GameShop\GameShop.csproj", "{0F3AA276-2FD1-4716-B199-857F1BF4F976}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameShop", "GameShop\GameShop.csproj", "{0F3AA276-2FD1-4716-B199-857F1BF4F976}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShop.DataAccess", "GameShop.DataAccess\GameShop.DataAccess.csproj", "{633D7162-2372-4B8D-BC21-E9006554058B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShop.Models", "GameShop.Models\GameShop.Models.csproj", "{D53809BE-5AD6-4978-8194-E2648C003002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameShop.Utility", "GameShop.Utility\GameShop.Utility.csproj", "{ED2C7888-EDF0-4311-A1A5-311FF4B15890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{0F3AA276-2FD1-4716-B199-857F1BF4F976}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F3AA276-2FD1-4716-B199-857F1BF4F976}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F3AA276-2FD1-4716-B199-857F1BF4F976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633D7162-2372-4B8D-BC21-E9006554058B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633D7162-2372-4B8D-BC21-E9006554058B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633D7162-2372-4B8D-BC21-E9006554058B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633D7162-2372-4B8D-BC21-E9006554058B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53809BE-5AD6-4978-8194-E2648C003002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53809BE-5AD6-4978-8194-E2648C003002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53809BE-5AD6-4978-8194-E2648C003002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53809BE-5AD6-4978-8194-E2648C003002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2C7888-EDF0-4311-A1A5-311FF4B15890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2C7888-EDF0-4311-A1A5-311FF4B15890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2C7888-EDF0-4311-A1A5-311FF4B15890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2C7888-EDF0-4311-A1A5-311FF4B15890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
